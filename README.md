@@ -28,13 +28,13 @@
     <li>Clone this repository to your local machine:</li>
   </ol>
 
-  <pre><code>git clone https://github.com/Yassineaur/CNN_CIFAR-10.git</code></pre>
+  <pre><code>git clone https://github.com/Yassineaur/cnnVSmlp.git</code></pre>
 
   <ol start="2">
     <li>Navigate to the project directory:</li>
   </ol>
 
-  <pre><code>cd CNN_CIFAR-10</code></pre>
+  <pre><code>cd cnnVSmlp</code></pre>
 
   <h2>Conclusion</h2>
   <p>This project demonstrates the effectiveness of using convolutional neural networks (CNNs) for image classification tasks. By leveraging CNN architecture and the CIFAR10 dataset, we were able to classify objects based on their ability to fly with high accuracy. The code provided in this repository serves as a starting point for similar classification tasks and can be extended or modified as needed.</p>
